@@ -1,0 +1,14 @@
+H:\AED\Pratica_2\Pratica_2\bin\Debug\Pratica_2.exe.config
+H:\AED\Pratica_2\Pratica_2\bin\Debug\Pratica_2.exe
+H:\AED\Pratica_2\Pratica_2\bin\Debug\Pratica_2.pdb
+H:\AED\Pratica_2\Pratica_2\obj\Debug\Pratica_2.csprojResolveAssemblyReference.cache
+H:\AED\Pratica_2\Pratica_2\obj\Debug\Pratica_2.exe
+H:\AED\Pratica_2\Pratica_2\obj\Debug\Pratica_2.pdb
+C:\wamp64\www\Projetos\All\Pratica_2\Pratica_2\bin\Debug\Pratica_2.exe.config
+C:\wamp64\www\Projetos\All\Pratica_2\Pratica_2\bin\Debug\Pratica_2.exe
+C:\wamp64\www\Projetos\All\Pratica_2\Pratica_2\bin\Debug\Pratica_2.pdb
+C:\wamp64\www\Projetos\All\Pratica_2\Pratica_2\obj\Debug\Pratica_2.csproj.AssemblyReference.cache
+C:\wamp64\www\Projetos\All\Pratica_2\Pratica_2\obj\Debug\Pratica_2.csproj.SuggestedBindingRedirects.cache
+C:\wamp64\www\Projetos\All\Pratica_2\Pratica_2\obj\Debug\Pratica_2.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Projetos\All\Pratica_2\Pratica_2\obj\Debug\Pratica_2.exe
+C:\wamp64\www\Projetos\All\Pratica_2\Pratica_2\obj\Debug\Pratica_2.pdb
